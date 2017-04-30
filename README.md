@@ -17,7 +17,9 @@ sobì(IATA, web, název, stát, atd.).
 
 ## Ukázka
 Spustit:
+
 	.\ main.py
+
 	python main.py
 
 ## Upozornìní
